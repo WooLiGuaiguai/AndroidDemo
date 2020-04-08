@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1"/>
+    <Button
+        android:id="@+id/button_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显式Intent测试"/>
+    <Button
+        android:id="@+id/button_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="隐式Intent测试"/>
+    <Button
+        android:id="@+id/button_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="隐式测试intent浏览器"/>
+    <Button
+        android:id="@+id/button_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="向上返回数据测试"/>
+    <Button
+        android:id="@+id/back_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="back"/>
+
+</LinearLayout>
