@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="文本内容">Framework   首先要找到一个模型；第二步是找到一个评判指标 Goodness of function f；
+            第三步是怎样去优化当前的函数。判断是否回归（regression） 判断输出是是否是一个连续值，是否是标量。
+            和回归平行的是分类（classification）：二类分类（输出是0 1这个判断值）和多元分类（输出判断是哪一个类）
+            ，training data需要带有标签，以此确保多元分类实现。    深度学习使用神经网络表达一种模式</string>
+</resources>

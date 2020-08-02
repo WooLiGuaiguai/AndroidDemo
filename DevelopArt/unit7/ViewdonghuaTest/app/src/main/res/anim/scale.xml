@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--scale标签标示缩放动画 对应scaleAnimation 使view具有放大缩小的动画效果-->
+    <scale
+        android:fromXScale=" 0"
+        android:fromYScale=" 0"
+        android:toXScale="0"
+        android:toYScale="0"
+        android:pivotX="0"
+        android:pivotY="0"/>
+
+</set>

@@ -1,0 +1,2 @@
+include ':app', ':app1', ':bitmapload'
+rootProject.name='kongjianote1'

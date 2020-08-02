@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--res/anim/anim_layout.xml-->
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:delay="0.5"
+    android:animationOrder="reverse"
+    android:animation="@anim/anim_item"/>
+    <!--delay表示子元素开始动画的时间延迟 子元素入场动画的时间周期为300ms
+            0.5表示每个子元素都需要延迟150ms才能播放入场动画
+            animationOrder 表示子元素动画的顺序，normal表示顺序显示；reverse表示逆向 random表示随机
+            animation 表示为子元素指定具体的入场动画-->
